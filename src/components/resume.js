@@ -12,7 +12,14 @@ class Resume extends Component {
                 {e.degree} <span>&bull;</span>{" "}
                 <em className="date">{e.graduated}</em>
               </p>
-              <p>{e.description}</p>
+              <p>
+                <ul class="fa-ul">
+                  <li><i className="fa-li fa fa-check-square"></i> {e.description}</li>
+                  <li><i className="fa-li fa fa-check-square"></i>{e.item1}</li>
+                  <li><i className="fa-li fa fa-check-square"></i>{e.item2}</li>
+                </ul>
+              </p>
+
             </div>
           </div>
         );
@@ -27,8 +34,13 @@ class Resume extends Component {
                 {job.title}
                 <span>&bull;</span> <em className="date">{job.years}</em>
               </p>
-
-              <p>{job.description}</p>
+              <p>
+                <ul className="fa-ul">
+                  <li><i className="fa-li fa fa-star"></i> {job.description}</li>
+                  <li><i className="fa-li fa fa-star"></i>{job.item1}</li>
+                  <li><i className="fa-li fa fa-star"></i>{job.item2}</li>
+                </ul>
+              </p>
             </div>
           </div>
         );

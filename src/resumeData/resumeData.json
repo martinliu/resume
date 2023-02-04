@@ -1,129 +1,114 @@
 {
   "main": {
-    "name": "Shan Shaji",
-    "occupation": "Full Stack Developer",
-    "description": "I mostly work with Ruby on Rails and JavaScript",
-    "bio": "End to End Product Developer with immense passion towards Rails and React",
-    "email": "shanshaji@gmail.com",
-    "phone": "929-420-6869",
+    "name": "Martin Liu",
+    "occupation": "Senior Developer Advocate",
+    "description": "I mostly work on JavaScript and React with CI/CD in ☁️",
+    "bio": "5+ years community builder with immense passion towards JavaScript and Front-end engineering",
+    "email": "info@martinliu.cn",
+    "phone": "+86 135 8179 3238",
     "address": {
-      "street": "Brooklyn",
-      "city": "New York",
-      "state": "NY",
-      "zip": "11219"
+      "street": "Chaoyang",
+      "city": "Beijing",
+      "state": "CN",
+      "zip": "100012"
     },
-    "website": "http://www.github.com/shanshaji",
+    "website": "https://martinliu.cn",
     "resumedownload": "../../public/resume.pdf",
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/shanshaji",
+        "url": "https://github.com/martinliu",
         "className": "fa fa-github"
       },
       {
-        "name": "stack overflow",
-        "url": "https://stackoverflow.com/users/9563947/shan",
-        "className": "fa fa-stack-overflow"
-      },
-      {
-        "name": "Medium",
-        "url": "https://shanshaji.medium.com/",
-        "className": "fa fa-medium"
-      },
-      {
-        "name": "Itch.io",
-        "url": "https://shanshaji.itch.io/",
-        "className": "fa fa-gamepad"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/shan.shaji1/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/shan9645",
+        "url": "https://twitter.com/martinliu",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/shanshaji/",
+        "url": "https://www.linkedin.com/in/liuzheng/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/shan_chelakkat/",
-        "className": "fa fa-instagram"
       }
     ]
   },
   "resume": {
     "education": [
       {
-        "school": "Sri Krishna College of Engineering and Technology",
+        "school": "Xinjiang University",
         "degree": "Bachelor",
-        "graduated": "March 2017",
-        "description": "Majored in Computer Science Engineering"
+        "graduated": "Jul 1998 ~ Aug 2002 & Urumqi, China",
+        "description": "Majored in Computer Science Engineering;",
+        "item1": "3rd place, “Ericsson Cup” National Web Design Competition (participated by hundreds universities)",
+        "item2": "Volunteer of Red Cross Society of China "
       },
       {
-        "school": "DCT Academy",
-        "degree": "Software Development",
-        "graduated": "December 2017",
-        "description": "Learned the basics of Ruby On Rails"
+        "school": "LinkedIn",
+        "degree": "Learning",
+        "graduated": "2~3 courses per year",
+        "description": "Drupal 9 Essential Training, Learning Google Firebase for Flutter",
+        "item1": "Communication within Teams, Building High-Performance Teams, Leading with Emotional Intelligence, Leadership Foundations， Program Management Foundations",
+        "item2": "Machine Learning and AI Foundations, Big Data Foundations, Google Cloud Compute Engine Essential Training"
       }
     ],
     "work": [
       {
-        "company": "Cybrilla",
-        "title": "Software Developer ",
-        "years": "May 2019 - March 2020",
-        "description": "Built a call center management application using ruby on rails and react"
+        "company": "Elastic",
+        "title": "Senior Developer Advocate",
+        "years": "Feb 2019 - Dec 2021",
+        "description": "Keynotes speech won the best talk of Elastic Dev Day 2019 along with 16 speakers. The event was managed and owned by myself.",
+        "item1": "Increased meetup (12) and 3rd-party conference (10) times in 2019 by 180+% YoY, by setting up monthly 1:1 meeting with organizers in tier-1 cities and submitting 15+ CFP to 3rd-party events.",
+        "item2": "Achieved 200+% increase for virtual meetup on both registration number and turn out rate (average 200~400 person) by crossing promote among 5 more new relevant partner developer communities."
       },
       {
-        "company": "RubyKraft, Bangalore",
-        "title": "Graduate Software Engineer",
-        "years": "March 2018 - May 2019",
-        "description": "Worked on multiple projects using rails react and electron."
+        "company": "Nutanix",
+        "title": "Senior Solutions Architect",
+        "years": "Dec 2016 – Jan 2019",
+        "description": "Working as DevOps specialist to selling web-scale HCI infrastructure as enterprise cloud platform to customers.",
+        "item1": "Supporting project for Telco and Service Provider by engaging with R&D of China mobile and WoCloud of China Unicom.",
+        "item2": "Build online product course: https://nutanix.martinliu.cn/"
       },
       {
-        "company": "Digital Aristotle, Bangalore",
-        "title": "Intern",
-        "years": "January 2017 - March 2017",
-        "description": "Involved in the development of AI for children’s online educaton "
+        "company": "Red Hat",
+        "title": "Senior Solutions Architect",
+        "years": "Sep 2014 - Apr 2016",
+        "description": "Became a thought leader of configuration automation solution as recognized Top SA Awards 2015 by advocating open source project Foremen/Puppet in both internal and wide range of developer communities.",
+        "item1": "Helped sales team won CNPC 3-year subscription deal($2+M) by using consultative communication skill to facilitate series of product workshops to became trusted advisor of customer.",
+        "item2": "Check out my full resume: https://www.linkedin.com/in/liuzheng/"
       }
     ],
     "skills": [
-      {
-        "name": "Ruby",
-        "level": "95%"
-      },
-      {
-        "name": "Ruby on Rails",
-        "level": "90%"
-      },
-      {
-        "name": "Dragon Ruby",
-        "level": "70%"
-      },
       {
         "name": "JavaScript",
         "level": "90%"
       },
       {
         "name": "React",
-        "level": "90%"
-      },
-      {
-        "name": "Express",
         "level": "80%"
       },
       {
-        "name": "Electron",
-        "level": "50%"
+        "name": "HTML & CSS",
+        "level": "90%"
       },
       {
-        "name": "Angular",
-        "level": "30%"
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Elasticsearch",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Mysql",
+        "level": "60%"
+      },
+      {
+        "name": "Node Express",
+        "level": "70%"
       }
     ]
   },
